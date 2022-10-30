@@ -6,3 +6,9 @@ Output for the project is creating a dynamic webpage detailing UFO sightings fro
 ## Analysis
 The existence of UFO's is still a controversial subject and supporters and detractors certainly ring on the topic.  As of today, the greatest limitation is the size and age of the data(2010). This analysis provides an introductory in road to the data for review and consideration.  Future improvements could present drop downlists for all filter values to providing a picklist of possible filters.
 
+## Website Sample
+Below is a snip from the final website.  Filters are the fields in the lower lefthand quarter and can be user slected to change the fields displayed. 
+
+https://github.com/KJAnalytics/UFOs/blob/main/UFO_Website.png
+
+
